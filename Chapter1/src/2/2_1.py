@@ -7,6 +7,8 @@ Created on 2016年10月17日
 import cv2
 import numpy as np
 
+import cv2
+import numpy as np
 
 img = cv2.imread("E:\phonePhotos\\1449641309308.jpg")
 num_rows, num_cols = img.shape[:2]

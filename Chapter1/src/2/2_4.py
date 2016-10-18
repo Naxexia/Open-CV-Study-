@@ -3,6 +3,7 @@
 Created on 2016年10月18日
 
 @author: dmnnaxxi
+Sharpening
 '''
 import cv2
 import numpy as np

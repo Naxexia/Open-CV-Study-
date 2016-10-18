@@ -10,7 +10,7 @@ import numpy as np
 
 
 
-img = cv2.imread('/Capture.PNG' , 0)
+img = cv2.imread('pics\Capture.PNG' , 0)
 
 
 # Generating the kernels

@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/2/Capture.PNG</name>
-			<type>1</type>
-			<location>E:/phonePhotos/Capture.PNG</location>
-		</link>
-	</linkedResources>
 </projectDescription>
